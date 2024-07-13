@@ -1,10 +1,12 @@
 import cv2
 
 # Load the Haar cascade file for luggage detection
-cascade = cv2.CascadeClassifier("week-5-haar/haar-luggage-cascade.xml")
+cascade = cv2.CascadeClassifier(
+    "week-5-haar-feature-extractor/haar-luggage-cascade.xml"
+)
 
 # Open the video file
-cap = cv2.VideoCapture("week-5-haar/test-video.mp4")
+cap = cv2.VideoCapture("week-5-haar-feature-extractor/test-video.mp4")
 
 # Check if the video file opened successfully
 if not cap.isOpened():
