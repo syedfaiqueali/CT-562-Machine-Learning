@@ -17,7 +17,7 @@ This repository contains all the weekly tasks for the Machine Learning course.
   - Implementing HOG for object detection and comparing its performance with Haar features.
 
 - **Week 9**: SVM (Support Vector Machine)
-  - Understanding SVM for classification tasks and applying it to a relevant dataset.
+  - Understanding SVM for classification problem and applying it to a relevant dataset.
 
 - **Weeks 13 & 14**: Heart Disease Prediction (SVM vs ANN vs CNN)
   - Comparative study of different models (SVM, ANN, CNN) for predicting heart disease.
