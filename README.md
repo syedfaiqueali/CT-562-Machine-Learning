@@ -2,10 +2,10 @@
 This repository contains all the weekly tasks for the Machine Learning course.
 
 - **Week 2**: Linear Regression
-  - Introduction to linear regression models and implementation using a medicial prices dataset.
+  - Introduction to linear regression models and implementation using a medical prices dataset.
 
 - **Week 3**: K-Means Clustering
-  - Basics of clustering algorithms and implementation of K-Means on a customers dataset.
+  - Basics of clustering algorithms and implementation of K-Means on a customer dataset.
 
 - **Week 4**: Advanced K-Means Clustering
   - Further exploration of K-Means, including optimization techniques and evaluation metrics.
@@ -17,7 +17,7 @@ This repository contains all the weekly tasks for the Machine Learning course.
   - Implementing HOG for object detection and comparing its performance with Haar features.
 
 - **Week 9**: SVM (Support Vector Machine)
-  - Understanding SVM for classification problem and applying it to a relevant dataset.
+  - Understanding SVM for classification problems and applying it to a relevant dataset.
 
 - **Weeks 13 & 14**: Heart Disease Prediction (SVM vs ANN vs CNN)
   - Comparative study of different models (SVM, ANN, CNN) for predicting heart disease.
